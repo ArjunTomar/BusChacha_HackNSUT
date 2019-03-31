@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191317686158",
+    "firebase_url": "https://smart-city-planner.firebaseio.com",
+    "project_id": "smart-city-planner",
+    "storage_bucket": "smart-city-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191317686158:android:66b63ca9168f6892",
+        "android_client_info": {
+          "package_name": "com.example.application.mapapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191317686158-dnifakvbc884d0or6dig8qs1sahld0n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.application.mapapplication",
+            "certificate_hash": "65b835b46c5244aa3d40716cc7a9a97db02b2217"
+          }
+        },
+        {
+          "client_id": "191317686158-946m2m16p11mo2s7iemt7og3vna8uh4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLrggbz-qohEBTUHmFMkrViVuDi9laMnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191317686158-946m2m16p11mo2s7iemt7og3vna8uh4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
